@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning **HTML**, **CSS**
 
-- 💬 Ask me about __DiscordJS__ / __JS__
+- 💬 Ask me about __DiscordJS__
 
 - 📫 How to reach me: **-path#0160**
