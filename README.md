@@ -1,3 +1,3 @@
-<h1>Hi 👋, I'm -path</h1>  
+[![Discord Presence](https://lanyard.cnrad.dev/api/247842311940079616)](https://discord.com/users/247842311940079616)
 
 - 🔭 I’m currently working on [Exor](https://discord.com/api/oauth2/authorize?client_id=959717778598793225&permissions=1559571655&scope=bot)
